@@ -1,6 +1,7 @@
 # Preventivas-Analise-de-Dados
 
-**Regra de negócio: **
+**Regra de negócio:**
+
 Equipamentos em corretiva não devem ter preventivas realizadas. 
 
 **Objetivo:**
